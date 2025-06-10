@@ -51,7 +51,7 @@ main {
     flex-wrap: wrap;
 }
 
-.disciplina {
+.Menu {
     display: flex;
     justify-content: center;
     background-color: var(--branco);
